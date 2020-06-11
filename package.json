@@ -20,7 +20,7 @@
         "wrench": "1.5.1",
         "nprof": ""
     },
-    "bin": { "nak": "./bin/nak" },
+    "bin": "./bin/nak",
     "main": "./lib/nak",
     "engines": { "node": ">= 0.8.x" },
     "repository" :
