@@ -10,7 +10,7 @@
     }],
     "dependencies": {
         "isbinaryfile": "2.0.0",
-        "simplefunc": "0.0.2",
+        "simplefunc": "astro-friedel/SimpleFunc",
         "colors": "0.6.2"
     },
     "devDependencies": {
@@ -25,7 +25,7 @@
     "engines": { "node": ">= 0.8.x" },
     "repository" :
     { "type" : "git",
-      "url" : "http://github.com/gjtorikian/nak.git"
+      "url" : "http://github.com/astro-friedel/nak.git"
     },
     "scripts": {
         "test": "mocha tests/test_runner.js"
